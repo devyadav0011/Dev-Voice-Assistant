@@ -1,6 +1,6 @@
 {
   "name": "Dev Assistant",
-  "description": "A real-time voice assistant and AI chatbot using Gemini Live API.",
+  "description": "A real-time voice assistant and AI chatbot using API.",
   "requestFramePermissions": [
     "microphone"
   ]
